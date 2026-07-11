@@ -37,7 +37,7 @@ Showcase Projects • Download Resume • Contact Form • Dynamic Skills
 > Replace with your screenshot
 
 ```
-screenshots/home.png
+\![Home](screenshots/home.png)
 ```
 
 ---
